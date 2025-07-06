@@ -1,0 +1,3 @@
+# Ignore all PNGs in screenshots folder
+ImageUsed/*.png
+
